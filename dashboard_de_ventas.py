@@ -265,5 +265,4 @@ st.plotly_chart(fig_dist,use_container_width=True)
 # st.plotly_chart(fig_dist,use_container_width=True)
 #
 
-!streamlit run dashboard_ventas.py & npx localtunnel --port 8501
 
