@@ -4,4 +4,4 @@ streamlit
 pandas
 numpy
 ploty
-ploty.express
+plotly.express
