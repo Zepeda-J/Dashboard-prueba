@@ -3,5 +3,5 @@ seaborn
 streamlit
 pandas
 numpy
-ploty
+plotly
 plotly.express
